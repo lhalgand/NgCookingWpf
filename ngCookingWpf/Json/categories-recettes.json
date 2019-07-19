@@ -1,0 +1,30 @@
+[
+	{
+		"id": "entree",
+		"nameToDisplay": "Entrée"
+	},
+	{
+		"id": "plat-principal",
+		"nameToDisplay": "Plat principal"
+	},
+	{
+		"id": "dessert",
+		"nameToDisplay": "Dessert"
+	},
+	{
+		"id": "boisson",
+		"nameToDisplay": "Boisson"
+	},
+	{
+		"id": "aperitif",
+		"nameToDisplay": "Apéritif"
+	},
+	{
+		"id": "encas",
+		"nameToDisplay": "Encas"
+	},
+	{
+		"id": "dejeuner",
+		"nameToDisplay": "Déjeuner / Brunch"
+	}
+]
